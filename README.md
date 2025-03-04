@@ -1,4 +1,4 @@
-# Weather App
+![Screenshot (220)](https://github.com/user-attachments/assets/339701a8-8118-478b-a988-05b19ae4235a)# Weather App
 
 This is a simple weather app built using React that fetches weather data from the OpenWeather API. The app allows users to search for a city, and it displays the current weather details, including temperature, humidity, and weather description, along with geographic coordinates.
 
@@ -42,6 +42,16 @@ To get the app running locally, follow these steps:
     ```bash
     npm run dev
     ```
+## Screenshots
+![Screenshot (220)](https://github.com/user-attachments/assets/d1558473-ad94-47ea-bb02-8af51bb70d24)
+![Screenshot (221)](https://github.com/user-attachments/assets/45c8853a-a5f0-47cc-b6bd-4585449e51cb)
+![Screenshot (222)](https://github.com/user-attachments/assets/5452409f-88eb-4288-813b-f1f80d7d38a7)
+![Screenshot (223)](https://github.com/user-attachments/assets/8e632800-62d1-44a4-ac54-983cd6c3c788)
+
+
+
+
+
 
 
 
