@@ -30,7 +30,7 @@ To get the app running locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/yourusername/Weather-App.git
    cd weather-app
    ```
 
